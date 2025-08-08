@@ -8,7 +8,6 @@ O projeto é focado em apresentar o cardápio, promoções e avaliações de cli
 ## 📸 Demonstração
 
 ![Prévia da Página](./assets/images/preview.png)  
-_(Adicione um print da página nesta pasta para exibir aqui)_
 
 ---
 
